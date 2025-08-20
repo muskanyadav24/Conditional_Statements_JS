@@ -31,3 +31,6 @@ This repository contains basic JavaScript programs to practice **Conditional Sta
 -> Logical operators (&&, ||)
 
 ## 📸 Screenshot
+
+<img width="959" height="401" alt="image" src="https://github.com/user-attachments/assets/c6d1e865-e931-4bda-9944-28e42fb0b37b" />
+
